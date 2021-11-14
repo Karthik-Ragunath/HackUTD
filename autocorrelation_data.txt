@@ -23,4 +23,6 @@ Top22_Sentiment    0.018245
 Top23_Sentiment    0.015844
 Top24_Sentiment    0.019478
 Top25_Sentiment    0.018717
+Overall - 0.1459432841667565
+
 dtype: float64
